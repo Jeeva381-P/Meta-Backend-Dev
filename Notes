@@ -1,0 +1,19 @@
+======================
+24/11/2022
+======================
+
+------------
+Varibles 
+------------
+(Use Meaningful Names) - Stores different types of data
+Declartion : 
+Single Assignment
+  a = 5
+Multiple Assignment
+  a,b,c = 1,2,3
+Delete a variable : del <variable_name>
+
+------------
+Datatypes
+------------
+Numeric (Int, Float, Complex), Sequence (String, Tuples, List), Dictionary, Boolean, Set
