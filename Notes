@@ -17,3 +17,12 @@ Delete a variable : del <variable_name>
 Datatypes
 ------------
 Numeric (Int, Float, Complex), Sequence (String, Tuples, List), Dictionary, Boolean, Set
+Int - 9
+Float - 9.9
+Complex - 9 - 9j
+String - "python"
+List - [3, "NI", 2001] - Can be modified
+Tuples - (3, "NI", 2001) - Cannot be modified
+Dicitionary - {'j' : 03, 'n' : 08}
+Boolean - True, False
+Set - Unordered, Non Duplicated - {3, "NI", 2001}
